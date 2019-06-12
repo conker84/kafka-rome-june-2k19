@@ -1,0 +1,1 @@
+This is the repository for the session **Real-time Polyglot Persistence with Elastic, Kafka and Neo4j** @ **Meetup #AperiTech Apache Kafka** held in Rome the 12/06/2019
